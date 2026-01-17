@@ -1,4 +1,7 @@
-# CODSOFT - Web Development Internship Tasks
+# CODSOFT - Web Development Internship Tasks 
+1.My Portfolio
+2.Landing Page
+3.Calculator
 
 This repository stores all tasks for my Web Development internship.  
 Click **View** to see the live demo of each task.
